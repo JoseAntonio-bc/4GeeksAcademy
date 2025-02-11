@@ -1,0 +1,188 @@
+plantilla : " cv online "
+piel : " naranja "
+
+# Información personal
+información_básica :
+
+    # Tu nombre completo
+    nombre : Jose Antonio
+    apellido : Barboza 
+
+    # Defínete en 4-5 palabras
+    Lema : Con la mirada puesta en el horizonte
+
+    # enfocar
+    Enfoque : Educarme
+
+    # Tienes 1 párrafo para causar una gran impresión, resume tu carrera.
+    resumen : |
+      Resume aquí tu trayectoria profesional lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Puedes [descargar esta plantilla de currículum vitae gratuita aquí]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Segundo párrafo si es necesario.
+    
+    # La URL de tu foto de perfil
+    # Si no lo tienes como URL, puedes colocar la imagen dentro de /static/profile-images/ y el enlace generado será http://sep.breatheco.de/static/profile-images/<your file name>
+    avatar :
+
+    # Información del contacto
+    correo electrónico : joseanbarboza@gmail.com   # opcional
+    teléfono :   56 9 84577828
+    sitio web :  # opcional 
+    linkedin :   # opcional
+
+    #
+    # ******** IMPORTANTE *******
+    # Este nombre de usuario de Github se usará para generar la URL de su perfil público de esta manera: http://sep.breatheco.de/sharu725
+    github : jose antonio b-c
+
+    twitter :   # opcional
+    stack-overflow : # Número/Nombre de usuario, p. ej. 123456/alandoe
+
+    # idiomas que hablas, niveles incluidos: Nativo, Profesional
+    idiomas :
+      - modismo : español
+        Nivel : nativo
+
+      - modismo : inglés
+        Nivel : básico
+
+    # Intereses o aficiones
+    intereses :
+      - artículo : Lectura
+
+      - artículo : Gimnasio
+
+      - Artículo : Idiomas
+
+# Tu educación previa
+educación :
+    - Grado : Desarrollador full stack
+      Universidad : Academia 4Geeks
+      # opcional
+      logotipo de la universidad :
+      Tiempo : 2024
+      detalles : |
+        Describe aquí tu estudio lorem ipsum dolor sit amet, consectetuer
+        élite adipiscente. Enean commodo ligula eget dolor. Masa Enea. Semen
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridículo mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Viñeta
+          - Viñeta
+    - grado :
+      universidad :
+      # opcional
+      logotipo de la universidad :
+      tiempo :
+      detalles : |
+        Describe aquí tu estudio lorem ipsum dolor sit amet, consectetuer
+        élite adipiscente. Enean commodo ligula eget dolor. Masa Enea. Semen
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridículo mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Viñeta
+          - Viñeta
+# Sus experiencias laborales previas o voluntariado
+Experiencias :
+    - role :
+      tiempo :
+      compañía :
+      # opcional
+      logotipo de la empresa :
+      detalles : |
+        Describe aquí tu función lorem ipsum dolor sit amet, consectetuer
+        élite adipiscente. Enean commodo ligula eget dolor. Masa Enea.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultratricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat masa quis
+        enim. Hecho pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        arquitecto beatae vitae dicta sunt explicabo.
+          - Viñeta
+          - Viñeta
+    - role :
+      tiempo :
+      compañía :
+      # opcional
+      logotipo de la empresa :
+      detalles : |
+        Describe aquí tu función lorem ipsum dolor sit amet, consectetuer
+        élite adipiscente. Enean commodo ligula eget dolor. Masa Enea.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultratricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Viñeta
+          - Viñeta
+    - role :
+      tiempo :
+      compañía :
+      # opcional
+      logotipo de la empresa :
+      detalles : |
+        Describe aquí tu función lorem ipsum dolor sit amet, consectetuer
+        élite adipiscente. Enean commodo ligula eget dolor. Masa Enea.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultratricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Viñeta
+          - Viñeta
+# Tu portafolio de proyectos
+Proyectos :
+    Introducción : >
+      Puede enumerar sus proyectos paralelos o bibliotecas de código abierto en este
+      sección. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    tareas :
+      - título :
+        # opcional
+        logotipo del proyecto :
+        enlace : " #hook "
+        Lema : " Una plantilla de sitio web adaptable diseñada para ayudar a las empresas emergentes a promocionar, comercializar y vender sus productos " .
+
+      - título :
+        # opcional
+        logotipo del proyecto :
+        enlace : " # "
+        Lema : " Una plantilla de sitio web adaptable diseñada para ayudar a los desarrolladores/diseñadores web a comercializar sus servicios " .
+
+      - título :
+        # opcional
+        logotipo del proyecto :
+        enlace : " # "
+        Lema : " Una plantilla de sitio web responsiva diseñada para ayudar a las empresas emergentes a promover sus productos o servicios y atraer usuarios e inversores "
+
+      - título :
+        # opcional
+        logotipo del proyecto :
+        enlace : " # "
+        Lema : " Una solución integral de plantillas de sitios web para que empresas emergentes y desarrolladores comercialicen sus aplicaciones móviles " .
+
+      - título :
+        # opcional
+        logotipo del proyecto :
+        enlace : " # "
+        Lema : " Un tema de una página Bootstrap responsivo diseñado para ayudar a los desarrolladores de aplicaciones a promocionar sus aplicaciones móviles "
+
+habilidades :
+    conjunto de herramientas :
+      - nombre :
+        nivel :
+
+      - nombre :
+        nivel :
+
+      - nombre :
+        nivel :
+
+      - nombre :
+        nivel :
+
+      - nombre :
+        nivel :
+
+      - nombre :
+        nivel :
